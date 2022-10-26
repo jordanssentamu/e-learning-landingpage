@@ -20,10 +20,10 @@ header {
 
 .header-logo-section {
      display: flex; 
-     
+     margin-right: 428px;
 
 }
-.logo-svg {
+.header-logo-img {
     height: 45px;
     width: 32px;
 
@@ -33,7 +33,7 @@ header {
  height: 19px;
  width: 165px;
  margin-left: 11px;
- margin-top: 10px;
+ 
 
 
 }
