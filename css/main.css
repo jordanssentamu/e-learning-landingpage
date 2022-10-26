@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: 'Acme', 'Aladin', 'Nunito';
+    font-size: 1.6rem;
+    background: #EFF7F9;
+    padding-top: 26px;
+
+}
+header {
+    width: 100%;
+    padding-left: 160px;
+    padding-right: 160px;
+    height: 60px;
+}
+
+.header-logo-section {
+     display: flex; 
+     
+
+}
+.logo-svg {
+    height: 45px;
+    width: 32px;
+
+    
+}
+.logo-heading-img {
+ height: 19px;
+ width: 165px;
+ margin-left: 11px;
+ margin-top: 10px;
+
+
+}
