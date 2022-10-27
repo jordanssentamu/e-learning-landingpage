@@ -63,7 +63,7 @@ letter-spacing: 0em;
     color: rgba(45, 37, 99, 1);
     text-decoration: none;
  }
- .header-button {
+ .header-button, .hero-intro-sub-wrapper-2-button {
     height: 60px;
    width: 180px;
 left: 1260px;
@@ -106,4 +106,22 @@ font-weight: 400;
 line-height: 85px;
 letter-spacing: 0em;
 color:  #343F41;
+margin-bottom: 134px;
+}
+
+.hero-intro-sub-wrapper-2-button {
+font-family: Nunito;
+font-size: 16px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+height: 60px;
+width: 180px;
+border: 1px solid rgba(18, 148, 236, 1);
+border-radius: 6px;
+color: rgba(255, 255, 255, 1);
+background: linear-gradient(0deg, #1294EC, #1294EC),
+linear-gradient(0deg, #1664F9, #1664F9);
+box-shadow: 0px 16px 46px rgba(18, 148, 236, 0.33);
 }
