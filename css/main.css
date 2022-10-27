@@ -84,7 +84,7 @@ width: 424px;
 }
 .hero-intro-sub-wrapper-1 {
     display: flex;
-    margin-bottom: 23px;
+    margin-bottom: -33px;
 }
 .hero-intro-sub-wrapper-1-text {
     height: 32px;
@@ -108,7 +108,7 @@ width: 424px;
     line-height: 85px;
     letter-spacing: 0em;
     color:  #343F41;
-    margin-bottom: 134px;
+    margin-bottom: 67px;
 }
 
 .hero-intro-sub-wrapper-2 {
@@ -159,7 +159,7 @@ width: 424px;
     border-radius: 50px;
     background: #FBD95E;
     top: -56px;
-    left: 79px;
+    left: 103px;
 }
 .hero-intro-container1-2 {
     background: #FF98D0;
