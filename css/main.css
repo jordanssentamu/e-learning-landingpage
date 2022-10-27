@@ -316,3 +316,16 @@ box-shadow: 0px 16px 46px rgba(242, 153, 74, 0.33)
 .join-subsection-wrapper2-1 {
     display: flex;
 }
+.join-subsection-wrapper2-heading {
+    height: 156px;
+    width: 378px;
+    font-family: Aladin;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 78px;
+    letter-spacing: 0em;
+    color: #343F41;
+    margin-top: 13px;
+    margin-bottom: 21px;
+
+}
