@@ -88,7 +88,7 @@ width: 424px;
     display: flex;
     margin-bottom: -33px;
 }
-.hero-intro-sub-wrapper-1-text {
+.hero-intro-sub-wrapper-1-text, .join-subsection-wrapper2-text {
     height: 32px;
     width: 241px;
     font-family: Acme;
@@ -299,9 +299,20 @@ box-shadow: 0px 16px 46px rgba(242, 153, 74, 0.33)
     margin-top: 191px;
     display: flex;
 }
+
 .join-subsection-wrapper1-img {
     height: 500px;
     width: 598px;
     object-fit: contain;
 
+}
+/* join-subsection-wrapper2 */
+.join-subsection-wrapper2 {
+    height: 526px;
+    width: 597px;
+    border-radius: 6px;
+ 
+}
+.join-subsection-wrapper2-1 {
+    display: flex;
 }
