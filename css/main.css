@@ -232,13 +232,26 @@ width: 424px;
 }
 .feature-section-content {
     height: 373px;
-    width: 100%;
-    left: 160px;
-    top: 906px;
+    width: 309.11px;
     border-radius: 10px;
     background: #FFFFFF;
     box-shadow: 0px 4px 46px rgba(148, 184, 227, 0.13);
     border-radius: 10px;
+    padding-top: 50px;
+}
+.feature-section-subcontent{
+    background: #EB5757;
+    height: 122.58131408691406px;
+    width: 122.58131408691406px;
+    border-radius: 74px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 16px 46px rgba(235, 87, 87, 0.33);
+    margin-left: 96.51px;
     
+    
+
+
 
 }
