@@ -82,6 +82,7 @@ padding-right:  120px;
 }
 .hero-intro-sub-wrapper-1 {
     display: flex;
+    margin-bottom: 23px;
 }
 .hero-intro-sub-wrapper-1-text {
     height: 32px;
@@ -95,6 +96,14 @@ padding-right:  120px;
     color: 
     rgba(22, 98, 244, 1);
     margin-right: 8px;
-    
-     
+}
+.hero-intro-heading {
+    height: 170px;
+width: 373px;
+font-family: Aladin;
+font-size: 70px;
+font-weight: 400;
+line-height: 85px;
+letter-spacing: 0em;
+color:  #343F41;
 }
