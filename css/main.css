@@ -590,5 +590,37 @@ box-shadow: 0px 16px 46px rgba(242, 153, 74, 0.33)
     color: #555185;
     margin-top: 44px;
     margin-bottom: 58px;
-
 }
+.footer-subsection-1 {
+    display: flex;
+}
+.footer-subsection-1-2 h6 {
+    height: 36px;
+    width: 133px;
+    font-family: Armata;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    color: #0A0951;
+    margin-top: 13px;
+    margin-bottom: 16px;
+}
+.footer-subsection-1-2 ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.footer-subsection-1-2 ul li {
+    width: 186px;
+    font-family: Acme;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 54px;
+    letter-spacing: 0em;
+    color: #0A0951;
+    margin-bottom: 12px;
+}
+
+
+
