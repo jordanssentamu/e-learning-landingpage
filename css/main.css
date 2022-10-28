@@ -490,7 +490,7 @@ box-shadow: 0px 16px 46px rgba(242, 153, 74, 0.33)
 }
 .course-choice-container-2-1-heading {
     height: 43.864051818847656px;
-    width: 264.6464538574219px;
+    /* width: 264.6464538574219px; */
     font-family: Nunito;
     font-size: 36px;
     font-weight: 700;
@@ -535,4 +535,12 @@ box-shadow: 0px 16px 46px rgba(242, 153, 74, 0.33)
     color: #0A0951;
     margin-left: 22px;
 
+}
+/* success-section */
+.success-section {
+    height: 658.850341796875px;
+    width: 100%;
+    padding-left: 159px;
+    padding-right: 105px;
+    margin-top: 156px;
 }
