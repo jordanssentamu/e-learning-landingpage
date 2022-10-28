@@ -593,6 +593,7 @@ box-shadow: 0px 16px 46px rgba(242, 153, 74, 0.33)
 }
 .footer-subsection-1 {
     display: flex;
+    justify-content: space-between;
 }
 .footer-subsection-1-2 h6 {
     height: 36px;
