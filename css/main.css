@@ -446,7 +446,8 @@ box-shadow: 0px 16px 46px rgba(242, 153, 74, 0.33)
     display: flex;
     justify-content: space-between;
 }
-.course-choice-container-1-heading {
+.course-choice-container-1-heading, 
+.success-subsection-1-main-heading {
     height: 156px;
     width: 330px;
     font-family: Aladin;
@@ -545,4 +546,10 @@ box-shadow: 0px 16px 46px rgba(242, 153, 74, 0.33)
     padding-left: 159px;
     padding-right: 105px;
     margin-top: 156px;
+}
+.success-subsection-1-main-heading {
+    height: 156px;
+    width: 368px;
+
+
 }
