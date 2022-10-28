@@ -343,7 +343,8 @@ box-shadow: 0px 16px 46px rgba(242, 153, 74, 0.33)
     letter-spacing: 0em;
     color: rgba(85, 81, 133, 1);
 }
-.join-subsection-wrapper2-2 {
+.join-subsection-wrapper2-2, 
+.success-subsection-1-main-button-container {
     height: 60px;
     width: 180px;
     background: #1664F9;
@@ -356,7 +357,8 @@ box-shadow: 0px 16px 46px rgba(242, 153, 74, 0.33)
     margin-top: 41px;
 
 }
-.join-subsection-wrapper2-2 a {
+.join-subsection-wrapper2-2 a,
+ .success-subsection-1-main-button-container a {
     color:rgba(255, 255, 255, 1);
     font-family: Nunito;
     font-size: 16px;
